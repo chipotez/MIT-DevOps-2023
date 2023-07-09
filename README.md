@@ -1,2 +1,2 @@
-# MIT-DevOps-2023.github.io
+# MIT-DevOps-2023
 Website
